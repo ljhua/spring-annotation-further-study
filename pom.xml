@@ -6,6 +6,7 @@
     <modules>
         <module>demo</module>
         <module>componentscan</module>
+        <module>cglib-demo</module>
     </modules>
     <groupId>me.junhua</groupId>
     <artifactId>spring-annotation-further-study</artifactId>
